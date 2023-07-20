@@ -23,6 +23,6 @@ The White-box CartoonGAN Model
 Face Shape Detection
 ![sam2](https://github.com/Smarshal21/FaceArtify/assets/99678760/3de80510-b7a3-4f75-9c43-9884c2ee3be5)
 
-* The Cartoonizer app employs a TensorFlow Lite machine learning model trained using Convolutional Neural Networks (CNNs) and Kaggle datasets to process input images and return the face shape. The model is capable of identifying various face shapes such as round, square, oval, heart-shaped, and more. By leveraging machine learning techniques, the app accurately recognizes the shape of human faces, enabling users to create cartoon-like representations.
+* The app employs a TensorFlow Lite machine learning model trained using Convolutional Neural Networks (CNNs) and Kaggle datasets to process input images and return the face shape. The model is capable of identifying various face shapes such as round, square, oval, heart-shaped, and more. By leveraging machine learning techniques, the app accurately recognizes the shape of human faces, enabling users to create cartoon-like representations.
 
 Feel free to contribute, provide feedback, or report any issues you encounter during your use of the Cartoonizer app. Enjoy cartoonizing your images with TensorFlow Lite!
